@@ -1,0 +1,13 @@
+C:\Users\rafal_000\documents\visual studio 2012\Projects\CameraGuard\CameraGuard\Bin\Debug\ApplicationIcon.png
+C:\Users\rafal_000\documents\visual studio 2012\Projects\CameraGuard\CameraGuard\Bin\Debug\Background.png
+C:\Users\rafal_000\documents\visual studio 2012\Projects\CameraGuard\CameraGuard\Bin\Debug\CameraGuard.dll
+C:\Users\rafal_000\documents\visual studio 2012\Projects\CameraGuard\CameraGuard\Bin\Debug\CameraGuard.pdb
+C:\Users\rafal_000\documents\visual studio 2012\Projects\CameraGuard\CameraGuard\Bin\Debug\AppManifest.xaml
+C:\Users\rafal_000\documents\visual studio 2012\Projects\CameraGuard\CameraGuard\Bin\Debug\CameraGuard.xap
+C:\Users\rafal_000\documents\visual studio 2012\Projects\CameraGuard\CameraGuard\obj\Debug\CameraGuard.csprojResolveAssemblyReference.cache
+C:\Users\rafal_000\documents\visual studio 2012\Projects\CameraGuard\CameraGuard\obj\Debug\App.g.cs
+C:\Users\rafal_000\documents\visual studio 2012\Projects\CameraGuard\CameraGuard\obj\Debug\MainPage.g.cs
+C:\Users\rafal_000\documents\visual studio 2012\Projects\CameraGuard\CameraGuard\obj\Debug\CameraGuard.g.resources
+C:\Users\rafal_000\documents\visual studio 2012\Projects\CameraGuard\CameraGuard\obj\Debug\CameraGuard.dll
+C:\Users\rafal_000\documents\visual studio 2012\Projects\CameraGuard\CameraGuard\obj\Debug\CameraGuard.pdb
+C:\Users\rafal_000\documents\visual studio 2012\Projects\CameraGuard\CameraGuard\obj\Debug\XapCacheFile.xml
