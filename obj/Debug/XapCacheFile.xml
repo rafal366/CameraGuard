@@ -1,10 +1,13 @@
-﻿<xapCache source="C:\Users\rafal_000\documents\visual studio 2012\Projects\CameraGuard\CameraGuard\Bin\Debug\CameraGuard.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="2013-03-14 6:41:01 PM">
+﻿<xapCache source="C:\Users\rafal_000\documents\visual studio 2012\Projects\CameraGuard\CameraGuard\Bin\Debug\CameraGuard.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="2013-03-15 3:33:43 PM">
   <file source="C:\Users\rafal_000\documents\visual studio 2012\Projects\CameraGuard\CameraGuard\Bin\Debug\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="2013-03-14 6:23:40 PM" />
   <file source="C:\Users\rafal_000\documents\visual studio 2012\Projects\CameraGuard\CameraGuard\Background.png" archivePath="Background.png" lastWriteTime="2013-03-14 5:06:54 PM" />
   <file source="C:\Users\rafal_000\documents\visual studio 2012\Projects\CameraGuard\CameraGuard\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="2013-03-14 5:06:54 PM" />
-  <file source="C:\Users\rafal_000\documents\visual studio 2012\Projects\CameraGuard\CameraGuard\obj\Debug\CameraGuard.dll" archivePath="CameraGuard.dll" lastWriteTime="2013-03-14 6:41:00 PM" />
+  <file source="C:\Users\rafal_000\documents\visual studio 2012\Projects\CameraGuard\CameraGuard\obj\Debug\CameraGuard.dll" archivePath="CameraGuard.dll" lastWriteTime="2013-03-15 3:33:43 PM" />
+  <file source="C:\Users\rafal_000\documents\visual studio 2012\Projects\CameraGuard\packages\WriteableBitmapEx.1.0.7.0\lib\sl4-wp71\WriteableBitmapExWinPhone.dll" archivePath="WriteableBitmapExWinPhone.dll" lastWriteTime="2013-03-15 8:34:26 AM" />
+  <file source="C:\Users\rafal_000\documents\visual studio 2012\Projects\CameraGuard\CameraGuard\example.bmp" archivePath="example.bmp" lastWriteTime="2013-03-15 11:56:04 AM" />
+  <file source="C:\Users\rafal_000\documents\visual studio 2012\Projects\CameraGuard\CameraGuard\example1.png" archivePath="example1.png" lastWriteTime="2013-03-15 12:00:11 PM" />
   <file source="C:\Users\rafal_000\documents\visual studio 2012\Projects\CameraGuard\CameraGuard\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="2013-03-14 5:06:54 PM" />
-  <file source="C:\Users\rafal_000\documents\visual studio 2012\Projects\CameraGuard\CameraGuard\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="2013-03-14 6:23:40 PM" />
+  <file source="C:\Users\rafal_000\documents\visual studio 2012\Projects\CameraGuard\CameraGuard\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="2013-03-15 1:16:30 PM" />
   <file source="C:\Users\rafal_000\documents\visual studio 2012\Projects\CameraGuard\CameraGuard\Bin\Debug\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="2013-03-14 5:06:54 PM" />
   <file source="C:\Users\rafal_000\documents\visual studio 2012\Projects\CameraGuard\CameraGuard\Bin\Debug\Background.png" archivePath="Background.png" lastWriteTime="2013-03-14 5:06:54 PM" />
 </xapCache>

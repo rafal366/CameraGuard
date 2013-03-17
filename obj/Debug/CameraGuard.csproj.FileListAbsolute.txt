@@ -11,3 +11,7 @@ C:\Users\rafal_000\documents\visual studio 2012\Projects\CameraGuard\CameraGuard
 C:\Users\rafal_000\documents\visual studio 2012\Projects\CameraGuard\CameraGuard\obj\Debug\CameraGuard.dll
 C:\Users\rafal_000\documents\visual studio 2012\Projects\CameraGuard\CameraGuard\obj\Debug\CameraGuard.pdb
 C:\Users\rafal_000\documents\visual studio 2012\Projects\CameraGuard\CameraGuard\obj\Debug\XapCacheFile.xml
+C:\Users\rafal_000\documents\visual studio 2012\Projects\CameraGuard\CameraGuard\Bin\Debug\WriteableBitmapExWinPhone.dll
+C:\Users\rafal_000\documents\visual studio 2012\Projects\CameraGuard\CameraGuard\Bin\Debug\WriteableBitmapExWinPhone.pdb
+C:\Users\rafal_000\documents\visual studio 2012\Projects\CameraGuard\CameraGuard\Bin\Debug\WriteableBitmapExWinPhone.xml
+C:\Users\rafal_000\documents\visual studio 2012\Projects\CameraGuard\CameraGuard\obj\Debug\result.g.cs
